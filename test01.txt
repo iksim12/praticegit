@@ -3,3 +3,5 @@
 233
 
 git push를 연습
+
+git test CLI

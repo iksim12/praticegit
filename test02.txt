@@ -1,3 +1,5 @@
 코드 두 줄 입력
 
 2
+
+git test CLI
